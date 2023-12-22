@@ -6,7 +6,7 @@
 2. Second i have done some Exploring and Wrangling on the data
 3. Then  i have done some analysis
 ## Exploratory Data Analysis :
-1. Correlations Analysis: we discovered that gross revenue vs budget , gross revenue vs votes has strong positive correlations and gross revenue vs Score has a weak postive correlation
+1. Correlations Analysis
 2. Gross revenue analysis:
    
        1. Analysis the realation between Gross revenue Vs. Genre
